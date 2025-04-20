@@ -1,4 +1,6 @@
 
+**
+
 # EncLang
 
 **Pseudo-Latin Encrypted Language**
@@ -14,10 +16,10 @@ This "encrypted language" might have:
 
 The files included are the encryption and decryption Python code.
 
-There are two options:
+**There are two options:**
 ChaCha-Poly1305 with auth - gives longer output
 AES version uses AES-CTR (no auth) - gives shorter output
-          
+
 -------
 
     Support:
