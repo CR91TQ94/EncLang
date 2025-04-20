@@ -7,14 +7,14 @@ from cryptography.hazmat.primitives.ciphers.aead import ChaCha20Poly1305
 
 # === Syllables ===
 syllables = [
-    "cre", "do", "in", "u", "num", "de", "um", "pa",
-    "trem", "om", "ni", "po", "ten", "tem", "fac", "to",
-    "rem", "cae", "li", "et", "ter", "rae", "vi", "si",
-    "bi", "mi", "ie", "sum", "chri", "stum", "fi", "i",
-    "ge", "ex", "na", "tum", "an", "te", "a", "sae",
-    "cu", "lu", "men", "ne", "ve", "rum", "ro", "non",
-    "con", "sub", "stan", "ti", "lem", "tri", "per", "quem",
-    "sun", "qui", "prop", "no", "sa", "scen", "dit", "lis"
+    "ba", "be", "bi", "bo", "bu", "ca", "ce", "ci",
+    "co", "cu", "da", "de", "di", "do", "du", "fa",
+    "fe", "fi", "fo", "fu", "ga", "ge", "gi", "go",
+    "gu", "ha", "he", "hi", "ho", "hu", "la", "le",
+    "li", "lo", "lu", "ma", "me", "mi", "mo", "mu",
+    "na", "ne", "ni", "no", "nu", "pa", "pe", "pi",
+    "po", "pu", "ra", "re", "ri", "ro", "ru", "sa",
+    "se", "si", "so", "su", "ta", "te", "ti", "to"
 ]
 
 syllable_lookup = {i: s for i, s in enumerate(syllables)}
