@@ -13,3 +13,7 @@ This "encrypted language" might have:
  - Rules to make it look like it could be spoken
 
 The files included are the encryption and decryption Python code.
+
+There are two options:
+ChaCha-Poly1305 with auth - gives longer output
+AES version uses AES-CTR (no auth) - gives shorter output
