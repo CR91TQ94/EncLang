@@ -17,3 +17,17 @@ The files included are the encryption and decryption Python code.
 There are two options:
 ChaCha-Poly1305 with auth - gives longer output
 AES version uses AES-CTR (no auth) - gives shorter output
+
+
+
+
+
+
+
+
+Support:
+BTC: 1KcDmSG8ecWeYVFRJE8jKstRBkGYKXrxA4
+XRP: rhVRUgqxa8qssnS41yH3P4x1Ne1NuY4zLr
+ETH: 0xeB0a6869cBa7395Dbe5b8950D06f0d8B9AC4Bae3
+
+
