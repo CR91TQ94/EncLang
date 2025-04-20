@@ -5,7 +5,7 @@
 
 **Pseudo-Latin Encrypted Language**
 
-An encryption algorithm that outputs ciphertext resembling a human language—made of pronounceable, consistent, and structured syllables.
+An encryption algorithm that outputs ciphertext resembling a human language—made of pronounceable syllables, resembling Latin.
 
 This "encrypted language" might have:
 
